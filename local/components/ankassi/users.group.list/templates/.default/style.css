@@ -1,0 +1,13 @@
+.user_list {
+	margin-bottom: 20px;
+}
+.user_list thead {
+	font-weight: bold;
+}
+.user_list tr {
+	text-align: center;
+}
+.user_list td {
+	border: 1px solid #5a4f4f;
+	padding: 2px 3px;
+}
