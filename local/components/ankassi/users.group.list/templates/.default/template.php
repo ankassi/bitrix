@@ -26,5 +26,5 @@ $this->setFrameMode(true);
         <?endforeach;?>
     </table>
 <?else:?>
-    <??>
+    <?=Loc::getMessage('NO_USERS')?>
 <?endif;?>
